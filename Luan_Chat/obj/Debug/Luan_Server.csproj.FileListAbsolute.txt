@@ -1,0 +1,11 @@
+D:\LapTrinhWindown\ChatServer\Luan_Chat\bin\Debug\Luan_Chat.exe.config
+D:\LapTrinhWindown\ChatServer\Luan_Chat\bin\Debug\Luan_Chat.exe
+D:\LapTrinhWindown\ChatServer\Luan_Chat\bin\Debug\Luan_Chat.pdb
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Server.csproj.AssemblyReference.cache
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Server.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Chat.Properties.Resources.resources
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Server.csproj.GenerateResource.cache
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Chat.exe
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Chat.pdb
+D:\LapTrinhWindown\ChatServer\Luan_Chat\obj\Debug\Luan_Chat.FrmServer.resources
